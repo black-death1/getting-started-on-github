@@ -10,3 +10,6 @@ now you can make the text bold and italic and you combine the like what am about
 * this how you can make it italc *
 and you cand this 
 **to make it bold** like the bald eagle of the usa 
+also you can add pictures if you want like so
+![GitHub Logo](/images/logo.png) by typing this command like so
+![GitHub Logo](/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F405112928952755790%2F&psig=AOvVaw0Vn0WgaX3pQzci9efUfAZc&ust=1580842417373000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD91I-HtucCFQAAAAAdAAAAABAD)
