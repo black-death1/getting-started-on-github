@@ -12,4 +12,5 @@ and you cand this
 **to make it bold** like the bald eagle of the usa 
 also you can add pictures if you want like so
 ![GitHub Logo](/images/logo.png) by typing this command like so
-![image of a car](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F405112928952755790%2F&psig=AOvVaw0Vn0WgaX3pQzci9efUfAZc&ust=1580842417373000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD91I-HtucCFQAAAAAdAAAAABAD)
+![Image of cars](https://i.pinimg.com/originals/27/cb/cc/27cbcc5bd958998e0b37e00ad30a90d3.jpg)
+ofcurse i chose the best looking by the way no doubt about it and you can do so many great stuff like what is jut did with github like honsetly its a great to get started on stuff like this you used it 
